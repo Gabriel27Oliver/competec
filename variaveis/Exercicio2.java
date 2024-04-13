@@ -15,6 +15,8 @@ public class Exercicio2 {
         uva = 10.50;
         soma = (laranja + uva);
 
+        System.out.print("o valor da laranja é: " + laranja);
+        System.out.print("o valor da uva é: " + uva);
         System.out.print("o valor da soma dos dois é: " + soma);
 
         
